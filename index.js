@@ -7,5 +7,5 @@ function destructivelyAppendDriver() {
 }
 
 function destructivelyPrependDriver() {
-  
+  drivers.unshift("")
 }
