@@ -24,4 +24,7 @@ function appendDriver() {
   return result
 }
 
-function pre
+function prependDriver() {
+  let result
+  result = [""]
+}
