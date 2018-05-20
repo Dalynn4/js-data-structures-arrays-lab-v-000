@@ -29,3 +29,5 @@ function prependDriver() {
   result = ["Arnold", ...drivers]
   return result
 }
+
+function remove
