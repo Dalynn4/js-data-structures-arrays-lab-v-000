@@ -27,4 +27,5 @@ function appendDriver() {
 function prependDriver() {
   let result
   result = ["Arnold", ...drivers]
+  return result
 }
